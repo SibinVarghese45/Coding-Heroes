@@ -25,8 +25,8 @@ app.use(cookieParser());
 
 app.use(
   cors({
-      origin:"https://coding-heroes.vercel.app/",
-	credentials:true,
+      origin:"http://127.0.0.1:3000",
+	  credentials: true,
   })
 );
 
