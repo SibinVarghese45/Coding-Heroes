@@ -23,19 +23,13 @@ database.connect();
 app.use(express.json());
 app.use(cookieParser());
 
-// try{
-//   app.use(
-//     cors({
-//       origin: JSON.parse(process.env.CORS_ORIGIN),
-//       credentials: true,
-//       maxAge: 14400,
-//     })
-//   );
-//   console.log("successfull")
-
-// }catch(e){
-//   console.log(e);
-// }
+app.use(
+  cors({
+    origin: JSON.parse(process.env.CORS_ORIGIN),
+    credentials: true,
+    maxAge: 14400,
+  })
+);
 
 app.use(
   fileUpload({
