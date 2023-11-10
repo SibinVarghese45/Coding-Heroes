@@ -1,7 +1,7 @@
 {
-    "name": "Study Notion",
+    "name": "Coding Heroes",
     "id": "/",
-    "short_name": "Study Notion",
+    "short_name": "Coding Heroes",
     "description": "An Ed Tech Web App for Students and Instructors",
     "start_url": "/",
     "display": "standalone",
