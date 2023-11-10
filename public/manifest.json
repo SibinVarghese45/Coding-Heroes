@@ -9,324 +9,323 @@
     "theme_color": "#001B22",
     "icons": [
         {
-          "src": "windows11/SmallTile.scale-100.png",
+          "src": "android/logo_new.jpg",
           "sizes": "71x71"
         },
         {
-          "src": "windows11/SmallTile.scale-125.png",
+          "src": "android/logo_new.jpg",
           "sizes": "89x89"
         },
         {
-          "src": "windows11/SmallTile.scale-150.png",
+          "src": "android/logo_new.jpg",
           "sizes": "107x107"
         },
         {
-          "src": "windows11/SmallTile.scale-200.png",
+          "src": "android/logo_new.jpg",
           "sizes": "142x142"
         },
         {
-          "src": "windows11/SmallTile.scale-400.png",
+          "src": "android/logo_new.jpg",
           "sizes": "284x284",
           "purpose": "maskable"
         },
         {
-          "src": "windows11/Square150x150Logo.scale-100.png",
+          "src": "android/logo_new.jpg",
           "sizes": "150x150"
         },
         {
-          "src": "windows11/Square150x150Logo.scale-125.png",
+          "src": "android/logo_new.jpg",
           "sizes": "188x188"
         },
         {
-          "src": "windows11/Square150x150Logo.scale-150.png",
+          "src": "android/logo_new.jpg",
           "sizes": "225x225"
         },
         {
-          "src": "windows11/Square150x150Logo.scale-200.png",
+          "src": "android/logo_new.jpg",
           "sizes": "300x300"
         },
         {
-          "src": "windows11/Square150x150Logo.scale-400.png",
+          "src": "android/logo_new.jpg",
           "sizes": "600x600"
         },
         {
-          "src": "windows11/Wide310x150Logo.scale-100.png",
-          "sizes": "310x150"
+          "src": "android/logo_new.jpg
         },
         {
-          "src": "windows11/Wide310x150Logo.scale-125.png",
+          "src": "android/logo_new.jpg",
           "sizes": "388x188"
         },
         {
-          "src": "windows11/Wide310x150Logo.scale-150.png",
+          "src": "android/logo_new.jpg",
           "sizes": "465x225"
         },
         {
-          "src": "windows11/Wide310x150Logo.scale-200.png",
+          "src": "android/logo_new.jpg",
           "sizes": "620x300"
         },
         {
-          "src": "windows11/Wide310x150Logo.scale-400.png",
+          "src": "android/logo_new.jpg",
           "sizes": "1240x600"
         },
         {
-          "src": "windows11/LargeTile.scale-100.png",
+          "src": "android/logo_new.jpg",
           "sizes": "310x310"
         },
         {
-          "src": "windows11/LargeTile.scale-125.png",
+          "src": "android/logo_new.jpg",
           "sizes": "388x388"
         },
         {
-          "src": "windows11/LargeTile.scale-150.png",
+          "src": "android/logo_new.jpg",
           "sizes": "465x465"
         },
         {
-          "src": "windows11/LargeTile.scale-200.png",
+          "src": "android/logo_new.jpg",
           "sizes": "620x620"
         },
         {
-          "src": "windows11/LargeTile.scale-400.png",
+          "src": "android/logo_new.jpg",
           "sizes": "1240x1240"
         },
         {
-          "src": "windows11/Square44x44Logo.scale-100.png",
+          "src": "android/logo_new.jpg",
           "sizes": "44x44"
         },
         {
-          "src": "windows11/Square44x44Logo.scale-125.png",
+          "src": "android/logo_new.jpg",
           "sizes": "55x55"
         },
         {
-          "src": "windows11/Square44x44Logo.scale-150.png",
+          "src": "android/logo_new.jpg",
           "sizes": "66x66"
         },
         {
-          "src": "windows11/Square44x44Logo.scale-200.png",
+          "src": "android/logo_new.jpg",
           "sizes": "88x88"
         },
         {
-          "src": "windows11/Square44x44Logo.scale-400.png",
+          "src": "android/logo_new.jpg",
           "sizes": "176x176"
         },
         {
-          "src": "windows11/StoreLogo.scale-100.png",
+          "src": "android/logo_new.jpg",
           "sizes": "50x50"
         },
         {
-          "src": "windows11/StoreLogo.scale-125.png",
+          "src": "android/logo_new.jpg",
           "sizes": "63x63"
         },
         {
-          "src": "windows11/StoreLogo.scale-150.png",
+          "src": "android/logo_new.jpg",
           "sizes": "75x75"
         },
         {
-          "src": "windows11/StoreLogo.scale-200.png",
+          "src": "android/logo_new.jpg",
           "sizes": "100x100"
         },
         {
-          "src": "windows11/StoreLogo.scale-400.png",
+          "src": "android/logo_new.jpg",
           "sizes": "200x200"
         },
         {
-          "src": "windows11/SplashScreen.scale-100.png",
+          "src": "android/logo_new.jpg",
           "sizes": "620x300"
         },
         {
-          "src": "windows11/SplashScreen.scale-125.png",
+          "src": "android/logo_new.jpg",
           "sizes": "775x375"
         },
         {
-          "src": "windows11/SplashScreen.scale-150.png",
+          "src": "android/logo_new.jpg",
           "sizes": "930x450"
         },
         {
-          "src": "windows11/SplashScreen.scale-200.png",
+          "src": "android/logo_new.jpg",
           "sizes": "1240x600"
         },
         {
-          "src": "windows11/SplashScreen.scale-400.png",
+          "src": "android/logo_new.jpg",
           "sizes": "2480x1200"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-16.png",
+          "src": "android/logo_new.jpg",
           "sizes": "16x16"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-20.png",
+          "src": "android/logo_new.jpg",
           "sizes": "20x20"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-24.png",
+          "src": "android/logo_new.jpg",
           "sizes": "24x24"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-30.png",
+          "src": "android/logo_new.jpg",
           "sizes": "30x30"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-32.png",
+          "src": "android/logo_new.jpg",
           "sizes": "32x32"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-36.png",
+          "src": "android/logo_new.jpg",
           "sizes": "36x36"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-40.png",
+          "src": "android/logo_new.jpg",
           "sizes": "40x40"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-44.png",
+          "src": "android/logo_new.jpg",
           "sizes": "44x44"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-48.png",
+          "src": "android/logo_new.jpg",
           "sizes": "48x48"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-60.png",
+          "src": "android/logo_new.jpg",
           "sizes": "60x60"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-64.png",
+          "src": "android/logo_new.jpg",
           "sizes": "64x64"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-72.png",
+          "src": "android/logo_new.jpg",
           "sizes": "72x72"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-80.png",
+          "src": "android/logo_new.jpg",
           "sizes": "80x80"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-96.png",
+          "src": "android/logo_new.jpg",
           "sizes": "96x96"
         },
         {
-          "src": "windows11/Square44x44Logo.targetsize-256.png",
+          "src": "android/logo_new.jpg",
           "sizes": "256x256"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-16.png",
+          "src": "android/logo_new.jpg",
           "sizes": "16x16"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-20.png",
+          "src": "android/logo_new.jpg",
           "sizes": "20x20"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-24.png",
+          "src": "android/logo_new.jpg",
           "sizes": "24x24"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-30.png",
+          "src": "android/logo_new.jpg",
           "sizes": "30x30"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-32.png",
+          "src": "android/logo_new.jpg",
           "sizes": "32x32"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-36.png",
+          "src": "android/logo_new.jpg",
           "sizes": "36x36"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-40.png",
+          "src": "android/logo_new.jpg",
           "sizes": "40x40"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-44.png",
+          "src": "android/logo_new.jpg",
           "sizes": "44x44"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-48.png",
+          "src": "android/logo_new.jpg",
           "sizes": "48x48"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-60.png",
+          "src": "android/logo_new.jpg",
           "sizes": "60x60"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-64.png",
+          "src": "android/logo_new.jpg",
           "sizes": "64x64"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-72.png",
+          "src": "android/logo_new.jpg",
           "sizes": "72x72"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-80.png",
+          "src": "android/logo_new.jpg",
           "sizes": "80x80"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-96.png",
+          "src": "android/logo_new.jpg",
           "sizes": "96x96"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-unplated_targetsize-256.png",
+          "src": "android/logo_new.jpg",
           "sizes": "256x256"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-16.png",
+          "src": "android/logo_new.jpg",
           "sizes": "16x16"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-20.png",
+          "src": "android/logo_new.jpg",
           "sizes": "20x20"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-24.png",
+          "src": "android/logo_new.jpg",
           "sizes": "24x24"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-30.png",
+          "src": "android/logo_new.jpg",
           "sizes": "30x30"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-32.png",
+          "src": "android/logo_new.jpg",
           "sizes": "32x32"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-36.png",
+          "src": "android/logo_new.jpg",
           "sizes": "36x36"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-40.png",
+          "src": "android/logo_new.jpg",
           "sizes": "40x40"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-44.png",
+          "src": "android/logo_new.jpg",
           "sizes": "44x44"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-48.png",
+          "src": "android/logo_new.jpg",
           "sizes": "48x48"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-60.png",
+          "src": "android/logo_new.jpg",
           "sizes": "60x60"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-64.png",
+          "src": "android/logo_new.jpg",
           "sizes": "64x64"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-72.png",
+          "src": "android/logo_new.jpg",
           "sizes": "72x72"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-80.png",
+          "src": "android/logo_new.jpg",
           "sizes": "80x80"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-96.png",
+          "src": "android/logo_new.jpg",
           "sizes": "96x96"
         },
         {
-          "src": "windows11/Square44x44Logo.altform-lightunplated_targetsize-256.png",
+          "src": "android/logo_new.jpg",
           "sizes": "256x256"
         },
         {
@@ -354,107 +353,107 @@
           "sizes": "48x48"
         },
         {
-          "src": "ios/16.png",
+          "src": "android/logo_new.jpg",
           "sizes": "16x16"
         },
         {
-          "src": "ios/20.png",
+          "src": "android/logo_new.jpg",
           "sizes": "20x20"
         },
         {
-          "src": "ios/29.png",
+          "src": "android/logo_new.jpg",
           "sizes": "29x29"
         },
         {
-          "src": "ios/32.png",
+          "src": "android/logo_new.jpg",
           "sizes": "32x32"
         },
         {
-          "src": "ios/40.png",
+          "src": "android/logo_new.jpg",
           "sizes": "40x40"
         },
         {
-          "src": "ios/50.png",
+          "src": "android/logo_new.jpg",
           "sizes": "50x50"
         },
         {
-          "src": "ios/57.png",
+          "src": "android/logo_new.jpg",
           "sizes": "57x57"
         },
         {
-          "src": "ios/58.png",
+          "src": "android/logo_new.jpg",
           "sizes": "58x58"
         },
         {
-          "src": "ios/60.png",
+          "src": "android/logo_new.jpg",
           "sizes": "60x60"
         },
         {
-          "src": "ios/64.png",
+          "src": "android/logo_new.jpg",
           "sizes": "64x64"
         },
         {
-          "src": "ios/72.png",
+          "src": "android/logo_new.jpg",
           "sizes": "72x72"
         },
         {
-          "src": "ios/76.png",
+          "src": "android/logo_new.jpg",
           "sizes": "76x76"
         },
         {
-          "src": "ios/80.png",
+          "src": "android/logo_new.jpg",
           "sizes": "80x80"
         },
         {
-          "src": "ios/87.png",
+          "src": "android/logo_new.jpg",
           "sizes": "87x87"
         },
         {
-          "src": "ios/100.png",
+          "src": "android/logo_new.jpg",
           "sizes": "100x100"
         },
         {
-          "src": "ios/114.png",
+          "src": "android/logo_new.jpg",
           "sizes": "114x114"
         },
         {
-          "src": "ios/120.png",
+          "src": "android/logo_new.jpg",
           "sizes": "120x120"
         },
         {
-          "src": "ios/128.png",
+          "src": "android/logo_new.jpg",
           "sizes": "128x128"
         },
         {
-          "src": "ios/144.png",
+          "src": "android/logo_new.jpg",
           "sizes": "144x144"
         },
         {
-          "src": "ios/152.png",
+          "src": "android/logo_new.jpg",
           "sizes": "152x152"
         },
         {
-          "src": "ios/167.png",
+          "src": "android/logo_new.jpg",
           "sizes": "167x167"
         },
         {
-          "src": "ios/180.png",
+          "src": "android/logo_new.jpg",
           "sizes": "180x180"
         },
         {
-          "src": "ios/192.png",
+          "src": "android/logo_new.jpg",
           "sizes": "192x192"
         },
         {
-          "src": "ios/256.png",
+          "src": "android/logo_new.jpg",
           "sizes": "256x256"
         },
         {
-          "src": "ios/512.png",
+          "src": "android/logo_new.jpg",
           "sizes": "512x512"
         },
         {
-          "src": "ios/1024.png",
+          "src": "android/logo_new.jpg",
           "sizes": "1024x1024"
         }
       ]
