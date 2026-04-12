@@ -32,7 +32,7 @@ const otpTemplate = (otp) => `
 const mailSender = async (email, otp) => {
     try {
         const response = await resend.emails.send({
-            from: 'Coding Heroes <sibinsunilvarghese@gmail.com>',
+            from: 'Coding Heroes <onboarding@resend.dev>',
             to: email,
             subject: "OTP Verification",
             html: otpTemplate(otp),
