@@ -172,7 +172,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made by Sibin Sunil Varghese 🗿 © 2023 Coding Heroes</div>
+          <div className="text-center">Made by Sibin Sunil Varghese 🗿 © 2026 Coding Heroes</div>
         </div>
       </div>
     </div>
